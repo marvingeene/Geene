@@ -18,6 +18,7 @@ Allows the user to either add a single pokemon, or a pair of pokemon, swap them 
 ------------- Calendar Generator (CG) ----------
 
 Converts a text file with entries in the following format (name dd.mm), into a compact excel file.
+Reads from a file called "geburtstage.txt", and also currently uses the german month names.
 
 
 
@@ -35,5 +36,6 @@ Improve calculation of correct size, it sometimes behaves weirdly.
 
 
 CG :
-
-Nothing really, this was made for a very specific purpose and it works for that, so nothing really to do, maybe do a check so that the date can be entered in both dd.mm and mm.dd
+Allow the user to select the file that the dates are read from.
+Allow the user to choose between german and english.
+Do a check so that the date can be entered in both dd.mm and mm.dd
