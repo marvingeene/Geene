@@ -27,6 +27,13 @@ PTV & FEID:
 
 Allow the user to set a background image instead of a background color.
 
+Add an option that each picture has the corresponding name displayed below it.
+
+Improve calculation of correct size, it sometimes behaves weirdly.
+
+(PTV) Change kill pokemon method to make switching the picture to pained optional.
+
+
 CG :
 
 Nothing really, this was made for a very specific purpose and it works for that, so nothing really to do, maybe do a check so that the date can be entered in both dd.mm and mm.dd
