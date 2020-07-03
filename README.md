@@ -32,8 +32,6 @@ Add an option that each picture has the corresponding name displayed below it.
 
 Improve calculation of correct size, it sometimes behaves weirdly.
 
-(PTV) Change kill pokemon method to make switching the picture to pained optional.
-
 
 CG :
 Allow the user to select the file that the dates are read from.
